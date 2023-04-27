@@ -1,4 +1,6 @@
 /*Calculating Armstrong Number*/
+/*Example: 153
+  output: (1*1*1) + (5*5*5) + (3*3*3) = 153*/
 #include<stdio.h>
 void main()
 {
